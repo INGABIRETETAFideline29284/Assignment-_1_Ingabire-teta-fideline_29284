@@ -169,6 +169,9 @@ Business Interpretation
 
 Management can determine which products customers purchase and the quantities purchased.
 
+<img width="364" height="370" alt="join 2" src="https://github.com/user-attachments/assets/32aafb03-6df7-4c7c-bd29-69cdcac1135e" />
+
+
 JOIN 3 — Customers and Orders
 
 Requirement
@@ -198,9 +201,12 @@ If a customer has no order, the order columns contain NULL.
 
 Frank Tuyisenge therefore appears even though he has not placed an order.
 
-### Business Interpretation
+Business Interpretation
 
 Management can identify customers who have registered but have not purchased any products.
+
+<img width="512" height="72" alt="join 3" src="https://github.com/user-attachments/assets/bc20fc85-2e18-49bc-ac5c-3ed9aeb8c004" />
+
 
 6. CTE Query
 
@@ -270,6 +276,9 @@ Business Interpretation
 
 Management can identify customers who spend above the overall customer average. This information can support customer segmentation and loyalty programs.
 
+<img width="227" height="69" alt="CTE_results" src="https://github.com/user-attachments/assets/edf55820-cb7b-4d0c-8d5e-dde05eb42c5e" />
+
+
 7. Window Functions
 
 7.1 Rank Customers by Total Spending
@@ -318,6 +327,9 @@ Business Interpretation
 
 Management can use the ranking to understand customer spending levels.
 
+<img width="281" height="94" alt="window1_results" src="https://github.com/user-attachments/assets/1f10f9fd-fc8f-4168-822e-d62c81551f07" />
+
+
 7.2 Number Each Customer's Orders
 
 Requirement
@@ -350,6 +362,9 @@ Explanation
 Business Interpretation
 
 This identifies whether an order is a customer's first, second, third, or later purchase.
+
+<img width="300" height="206" alt="window2_results" src="https://github.com/user-attachments/assets/d5a6c759-2076-4bb5-8ea2-079404e7ee7b" />
+
 
 7.3 Running Total of Revenue
 
@@ -401,6 +416,9 @@ The final running total is:
 Business Interpretation
 
 Management can monitor cumulative revenue and understand how sales accumulate over time.
+
+<img width="232" height="208" alt="window3_results" src="https://github.com/user-attachments/assets/e3f3a0f8-64ab-4b4e-84fc-726014e0f06f" />
+
 
 7.4 Days Between Customer Orders
 
@@ -456,6 +474,9 @@ Explanation
 Business Interpretation
 
 Management can understand customer purchase frequency and identify how long customers typically wait between purchases.
+
+<img width="457" height="148" alt="window4_result" src="https://github.com/user-attachments/assets/5329040b-ea57-47f2-8ebb-ed9fdb7662ca" />
+
 
 8. Overall Business Interpretation
 
