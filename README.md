@@ -134,6 +134,8 @@ Business Interpretation
 
 Management can identify who placed each order and the city in which the customer is located.
 
+<img width="246" height="204" alt="join 1" src="https://github.com/user-attachments/assets/389924f9-c770-4c2f-9a82-ca74d2c83b81" />
+
 
 JOIN 2 — Order Items and Products
 
